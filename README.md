@@ -8,7 +8,8 @@
 * 侧边栏功能：分类，归档，近期文章。
 ## 博客系统页面展示
 **首页**
-
+![image](https://github.com/furongxu1/blog/blob/master/%E9%A6%96%E9%A1%B5.png)
 **文章详情页面**
-
+![image](https://github.com/furongxu1/blog/blob/master/%E8%AF%A6%E6%83%85.png)
 **分类**
+![image](https://github.com/furongxu1/blog/blob/master/%E5%BD%92%E6%A1%A3.png)
